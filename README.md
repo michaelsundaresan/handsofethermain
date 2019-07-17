@@ -1,2 +1,1 @@
-This is the code for my personal website/portfolio."# handsofether" 
-"# handsofether" 
+This is the code for my personal website/portfolio, Hands of Ether Web Development.
